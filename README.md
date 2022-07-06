@@ -5,6 +5,7 @@
 | Repositories | Description | Pages |
 |:-:|:-:|:-:|
 | [QR_Code](https://github.com/KTeruuchi/QR_Code) | QR code generator. | [view](https://kteruuchi.github.io/QR_Code/) |
+| [QR_DeCode](https://github.com/KTeruuchi/QR_DeCode) | QR code decoder. | [view](https://kteruuchi.github.io/QR_DeCode/) |
 | [Ray_Tracing](https://github.com/KTeruuchi/Ray_Tracing) | Renderer using ray tracing. | [view](https://kteruuchi.github.io/Ray_Tracing/) |
 | [SVG]() | Collections of SVG image. | [Under Construction]() |
 
