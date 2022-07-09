@@ -4,14 +4,14 @@
 ## Main Repositories
 | Repositories | Description | Pages |
 |:-:|:-:|:-:|
-| [QR_Code](https://github.com/KTeruuchi/QR_Code) | QR code generator. | [view](https://kteruuchi.github.io/QR_Code/) |
-| [QR_DeCode](https://github.com/KTeruuchi/QR_DeCode) | QR code decoder. | [view](https://kteruuchi.github.io/QR_DeCode/) |
-| [Ray_Tracing](https://github.com/KTeruuchi/Ray_Tracing) | Renderer using ray tracing. | [view](https://kteruuchi.github.io/Ray_Tracing/) |
+| [QR_Code](https://github.com/KTechi/QR_Code) | QR code generator. | [view](https://KTechi.github.io/QR_Code/) |
+| [QR_DeCode](https://github.com/KTechi/QR_DeCode) | QR code decoder. | [view](https://KTechi.github.io/QR_DeCode/) |
+| [Ray_Tracing](https://github.com/KTechi/Ray_Tracing) | Renderer using ray tracing. | [view](https://KTechi.github.io/Ray_Tracing/) |
 | [SVG]() | Collections of SVG image. | [Under Construction]() |
 
 
 <!--
-**KTeruuchi/KTeruuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KTechi/KTechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
