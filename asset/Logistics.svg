@@ -7,7 +7,7 @@
   <g clip-path="url(#screen)">
 
   <rect fill="#222" width="2000" height="400"/>
-  <path fill="none" stroke="#666" stroke-width="2" d="
+  <path fill="none" stroke="#666" stroke-width="1.5" d="
   M  260 0 l -2000 2000  M 0 -200 l 2000 290
   M  520 0 l -2000 2000  M 0 -100 l 2000 290
   M  780 0 l -2000 2000  M 0    0 l 2000 290
