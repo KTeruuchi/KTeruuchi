@@ -9,9 +9,7 @@
 | [QR_Code](https://github.com/KTechi/QR_Code) | QR code generator. | [view](https://KTechi.github.io/QR_Code/) |
 | [QR_DeCode](https://github.com/KTechi/QR_DeCode) | QR code decoder. | [view](https://KTechi.github.io/QR_DeCode/) |
 | [DataStructures-and-Algorithms](https://github.com/KTechi/DataStructures-and-Algorithms) | DataStructure, Algorithm, Crypto | none |
-| [SVG]() | Collections of SVG image. | [Under Construction]() |
-
---> [SVG tmp](https://github.com/KTechi/SVG-Collections)
+| [SVG (temporary)](https://github.com/KTechi/SVG-Collections) | Collections of SVG image. | [Under Construction]() |
 
 ![](asset/Logistics.svg)
 
